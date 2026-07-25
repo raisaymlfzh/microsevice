@@ -1,0 +1,13 @@
+com\uas\order_service\entity\Order.class
+com\uas\order_service\service\OrderService.class
+com\uas\order_service\dto\PelangganDTO.class
+com\uas\order_service\controller\OrderController.class
+com\uas\order_service\security\JwtAuthenticationFilter.class
+com\uas\order_service\OrderServiceApplication.class
+com\uas\order_service\security\SecurityConfig.class
+com\uas\order_service\client\PelangganClient.class
+com\uas\order_service\config\RabbitMQConfig.class
+com\uas\order_service\dto\ProdukDTO.class
+com\uas\order_service\repository\OrderRepository.class
+com\uas\order_service\client\ProdukClient.class
+com\uas\order_service\publisher\OrderProducer.class

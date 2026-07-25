@@ -1,0 +1,6 @@
+com\uas\pelanggan_service\consumer\EmailConsumer.class
+com\uas\pelanggan_service\config\RabbitMQConfig.class
+com\uas\pelanggan_service\entity\Pelanggan.class
+com\uas\pelanggan_service\repository\PelangganRepository.class
+com\uas\pelanggan_service\controller\PelangganController.class
+com\uas\pelanggan_service\PelangganServiceApplication.class
