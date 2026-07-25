@@ -1,0 +1,6 @@
+com\uas\produk_service\consumer\OrderConsumer.class
+com\uas\produk_service\controller\ProdukController.class
+com\uas\produk_service\repository\ProdukRepository.class
+com\uas\produk_service\config\RabbitMQConfig.class
+com\uas\produk_service\entity\Produk.class
+com\uas\produk_service\ProdukServiceApplication.class
