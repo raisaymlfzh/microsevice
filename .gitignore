@@ -1,0 +1,19 @@
+# Abaikan folder target hasil build Java
+target/
+build/
+bin/
+
+# Abaikan folder IDE dan OS
+.idea/
+.vscode/
+.DS_Store
+
+# Abaikan database dan log volume Docker
+prometheus_data/
+grafana_data/
+elasticsearch_data/
+*.log
+
+# Abaikan file rahasia (jika ada .env)
+.env
+*.secret
